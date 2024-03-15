@@ -1,6 +1,4 @@
 void main() {
-  // Funktionen sind Teilprogramme mit Eingabe und Ausgabe, die optinial sein können.
-
   // Aufruf der Funktion 'addiereZweiZahlen' und Ausgabe des Ergebnisses.
   print("Die Summe von 3 und 4 ist: ${addiereZweiZahlen(3, 4)}");
 
