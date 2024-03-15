@@ -2,6 +2,10 @@
 
 Funktionen sind grundlegende Bausteine in der Programmierung. Sie ermöglichen es, wiederkehrende Aufgaben in wiederverwendbare Code Blöcke zu kapseln. Funktionen nehmen Eingabewerte (Parameter) entgegen, führen Operationen mit diesen Werten aus und können Ergebnisse zurückliefern.
 
+## Beispiel
+
+Für Beispiele schaue dir dazu die [funktionen.dart](./funktionen.dart) Datei an.
+
 ## Grundstruktur einer Funktion
 
 Eine Dart-Funktion hat die folgende Grundstruktur:

@@ -38,6 +38,7 @@ void main() {
     // Zusätzliche Bedingung innerhalb des else-Blocks
     if (extraCredit) {
       print('Gut mit Extra Credit');
+      // ignore: dead_code
     } else {
       print('Gut');
     }

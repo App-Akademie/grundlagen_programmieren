@@ -20,4 +20,6 @@ void main() {
 
   // Milka Kuh fressen lassen
   milkaKuh.fressen();
+
+  print(muhbert);
 }
