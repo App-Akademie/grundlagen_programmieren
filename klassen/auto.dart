@@ -10,5 +10,6 @@ class Auto {
   // Methode der Klasse
   void starteMotor() {
     print("$marke $modell ($baujahr) startet den Motor.");
+    print('');
   }
 }
