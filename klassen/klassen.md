@@ -104,6 +104,6 @@ void main() {
     Kuh milkaKuh = Kuh.milka();
 
     // Methode in der Klasse aufrufen
-    muhtilda.fressen();
+    muhbert.fressen();
 }
 ```

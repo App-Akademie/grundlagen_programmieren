@@ -6,7 +6,7 @@ void main() {
   int anzahlDerAepfel = 5;
   print('Anzahl der Äpfel: $anzahlDerAepfel');
 
-  // double: Ein Datentyp für Fließkommazahlen.
+  // double: Ein Datentyp für Kommazahlen.
   double preisProApfel = 0.5;
   print('Preis pro Apfel: $preisProApfel');
 
@@ -18,7 +18,7 @@ void main() {
   bool istProgrammierungSpass = true;
   print('Ist Programmierung Spaß? $istProgrammierungSpass');
 
-  // List: Eine Sammlung von Elementen. 
+  // List: Eine Sammlung von Elementen.
   // Eine Liste von Strings.
   List<String> einkaufsliste = ['Äpfel', 'Bananen', 'Orangen'];
   print('Einkaufsliste: $einkaufsliste');

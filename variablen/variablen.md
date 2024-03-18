@@ -33,7 +33,7 @@ print('Anzahl der Äpfel: $anzahlDerAepfel');
 
 ### double
 
-`double` ist ein Datentyp für Fließkommazahlen. Er wird für Dezimalzahlen verwendet.
+`double` ist ein Datentyp für Kommazahlen. Er wird für Dezimalzahlen verwendet.
 
 ```dart
 double preisProApfel = 0.5;
